@@ -98,7 +98,6 @@ Pull requests are welcome!  See the [contributor guidelines](https://github.com/
 * Tommy He (Chinese translation for Desktop Mode)
 * Aaron Dewes (German translation updates)
 * Ingo Brückl (German translation updates)
-
 #### Special Thanks
 * Mishaal Rahman (xda-developers)
 * Jon West (Team Bliss)
